@@ -132,7 +132,7 @@ export default function Header() {
             }}
           >
             <Typography variant="h6" noWrap component="div">
-              DEP
+              Dash Board
             </Typography>
           </Link>
           <Box sx={{ display: "flex", alignItems: "center" }}>
