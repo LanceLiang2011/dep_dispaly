@@ -138,7 +138,7 @@ export default function Header() {
           <Box sx={{ display: "flex", alignItems: "center" }}>
             {
               <Link
-                to={"login"}
+                to={"/"}
                 style={{
                   textDecoration: "none",
                   color: "white",
