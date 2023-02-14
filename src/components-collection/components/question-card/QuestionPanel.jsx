@@ -39,7 +39,7 @@ export default function QuestionPanel() {
     toNextPage();
   };
   const handleNo = () => {
-    setScore((current) => current - 1);
+    setScore((current) => current);
     toNextPage();
   };
   return (
